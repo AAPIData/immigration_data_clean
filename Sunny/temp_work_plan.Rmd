@@ -1,0 +1,23 @@
+---
+title: "work_plan"
+author: "Sunny"
+date: "11/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##1. D3 example charts for each type
+##2. Data Cleaning & Formatting plans
+
+## DHS data analysis
+
+#National-Level data
+1. trend graphs
+2. Non-trend graphs
+
+#state/regional data
+1.
+
